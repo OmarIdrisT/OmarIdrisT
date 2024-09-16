@@ -2,7 +2,7 @@
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,+my+name+is+Omar+Idris"></a>
 
-## <picture><img src = "https://github.com/OmarIdrisT/OmarIdrisT/issues/1#issue-2528688918" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/OmarIdrisT/OmarIdrisT/issues/1#issue-2528688918.png" width = 50px></picture> **About me**
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
