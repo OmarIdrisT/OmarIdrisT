@@ -15,10 +15,12 @@
 <p align="center">
 
 - **Languages**:
-    
-    ![Kotlin](https://camo.githubusercontent.com/9d1e81844998a0b55c27bfc67002ce67fbb8fdfb4d2ac27443c4711c59402c2f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4b6f746c696e2d3746353246463f7374796c653d666c6174266c6f676f3d6b6f746c696e266c6f676f436f6c6f723d7768697465)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+- <p>
+  <img src="https://camo.githubusercontent.com/9d1e81844998a0b55c27bfc67002ce67fbb8fdfb4d2ac27443c4711c59402c2f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4b6f746c696e2d3746353246463f7374796c653d666c6174266c6f676f3d6b6f746c696e266c6f676f436f6c6f723d7768697465" alt="Kotlin" width="100" height="50"/>
+  <img src="https://media.dev.to/cdn-cgi/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F33%2Fcsharp-badge.png" alt="C#" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="100" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/1200px-VB.NET_Logo.svg.png" alt="VB.NET" width="50" height="50"/>
+</p>
 
 <br>   
     
